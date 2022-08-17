@@ -9,7 +9,7 @@ header{
     width: auto;
 }
 #logo{
-    background-image: url('./img/teste.jpg');
+    background-image: url('/img/teste.jpg');
     height: 8vh;
     width: 8vh;
     background-size: cover;
