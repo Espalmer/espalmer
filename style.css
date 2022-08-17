@@ -56,6 +56,7 @@ a:hover{
         width: 0;
         height: 0;
     }
+  
 }
 
 @media all and (max-width: 600px){
@@ -67,16 +68,15 @@ a:hover{
 }
 #container{
     height: 100%;
-    margin: 15%;
+    margin: 10%;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content:center;
     flex-wrap: wrap;
     margin-top: 15px;
-    padding: 10px;
 }
 .test{
-    width: 300px;
+    width: 250px;
     height: 300px;
     background-image: url('./img/comida.jpg');
     margin: 5vh;
